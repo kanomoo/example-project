@@ -1,0 +1,18 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Binary files - prevent git from treating them as text diffs
+*.pdf binary
+*.docx binary
+*.doc binary
+*.pptx binary
+*.ppt binary
+*.xlsx binary
+*.xls binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.zip binary
+*.tar.gz binary
+*.ico binary

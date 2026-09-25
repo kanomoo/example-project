@@ -51,8 +51,3 @@ An eco-innovative air purification system utilizing vehicle kinetic energy to ca
   - Configured `.gitattributes` to handle binary assets (`.pdf`, `.docx`, `.pptx`, image files) properly, eliminating extraneous diffs and preserving file integrity.
   - Configured `.gitignore` to prevent tracking of OS metadata (`.DS_Store`, `Thumbs.db`), Python bytecode caches (`__pycache__`), and temporary Microsoft Office lock files (`~$*`).
 
----
-
-## 📋 Release Version
-
-- **Version 1.0.0 (`v1.0.0`)**: Initial release featuring the repository directory structure, complete academic project reports, pitching decks, and automation build pipelines.

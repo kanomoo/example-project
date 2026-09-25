@@ -27,6 +27,7 @@ A comprehensive repository consolidating academic project reports, pitching pres
 ├── โครงการปี2_ลอยกระทงและวิจัย/           # Year 2 Project Reports, Loy Krathong event research, & vocational club plans
 ├── จิตวิทยา/                             # Psychology course project reports and survey questionnaires
 ├── ตัวอย่างรายงาน/                       # Standard thesis and academic report templates for reference
+├── GUIDELINES_FOR_EXCELLENT_ACADEMIC_REPORT.md  # Standard Guidelines for High-Quality Academic Reports & Theses
 └── ระบบเช็คชื่อสแกนใบหน้า/               # Face Recognition Attendance System (Full report Chapters 1–5, Appendices)
 ```
 
@@ -37,7 +38,10 @@ A comprehensive repository consolidating academic project reports, pitching pres
 ### 1. KMUTNB Academic Project & Thesis Dataset
 A comprehensive benchmark dataset comprising official KMUTNB thesis writing manuals, certification and progress evaluation templates (DOCX/PDF), and complete 5-chapter master's and doctoral theses in Thai and English. Specially curated as an empirical dataset for academic formatting skills (`academic-project-report`).
 
-### 2. Smart Queue Food (Intelligent Queue & Order Management System)
+### 2. Guidelines for High-Quality Academic Reports & Theses
+A detailed master handbook ([`GUIDELINES_FOR_EXCELLENT_ACADEMIC_REPORT.md`](./GUIDELINES_FOR_EXCELLENT_ACADEMIC_REPORT.md)) summarizing the core principles, standard 5-chapter architecture, KMUTNB typography/margin rules, APA table formatting, and a 15-point quality audit checklist.
+
+### 3. Smart Queue Food (Intelligent Queue & Order Management System)
 An automated queue management and food ordering platform designed for cafeteria and food court environments to minimize customer waiting times, optimize vendor workflows, and improve service efficiency.
 - **Documentation & Pitch Deck**: Comprehensive academic report and professional pitching presentation deck adhering strictly to KMUTNB project and thesis standards.
 - **Automated Document Generation (`scripts/`)**:
@@ -45,10 +49,10 @@ An automated queue management and food ordering platform designed for cafeteria 
   - `build_presentation.py`: Automated PPTX slide generator delivering high-impact pitch decks.
   - `generate_graphics.py`: Programmatic generation and rendering of technical diagrams (System Architecture, Business Model Canvas, Positioning Map, and Risk Matrix).
 
-### 3. Face Recognition Attendance System
+### 4. Face Recognition Attendance System
 An automated classroom attendance monitoring system leveraging computer vision and facial recognition. Includes complete academic documentation covering project proposals, Chapters 1 through 5, and full appendices.
 
-### 4. Design Thinking: AEROSEED Kinetic Tyre Dust Air Purifier
+### 5. Design Thinking: AEROSEED Kinetic Tyre Dust Air Purifier
 An eco-innovative air purification system utilizing vehicle kinetic energy to capture and filter fine tyre particulate matter, developed using Human-Centered Design Thinking methodologies to tackle urban air pollution.
 
 ---
